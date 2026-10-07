@@ -1,5 +1,5 @@
 {
- "catalogVersion": 3,
+ "catalogVersion": 4,
  "routes": [
   {
    "id": "sweihan-2026-09-12",
@@ -13848,7 +13848,7 @@
    "name": "Sweihan Gate 14 to Mohammad Ali Dune",
    "emirate": "Abu Dhabi",
    "region": "Sweihan",
-   "summary": "23.3 km loop track recorded near Sweihan, Abu Dhabi on 3 Oct 2026 by Andy. This is a real GPS trace, not a drawn line — follow it as a guide, not a guarantee, and drive to the conditions on the day.",
+   "summary": "23.3 km loop track recorded near Sweihan, Abu Dhabi on 3 Oct 2026 by Swapnil ($ANDY). This is a real GPS trace, not a drawn line — follow it as a guide, not a guarantee, and drive to the conditions on the day.",
    "geometry": [
     [
      24.31879,
@@ -19168,7 +19168,7 @@
    ],
    "bestSeason": "Oct–Apr",
    "thumbnailRef": "sweihan-gate14-mohammad-ali-dune",
-   "attribution": "Recorded by Andy",
+   "attribution": "Recorded by Swapnil ($ANDY)",
    "sourceLicense": "Shared with permission by the contributor",
    "isAreaGuide": false
   },
