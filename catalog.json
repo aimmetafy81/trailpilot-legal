@@ -1,5 +1,5 @@
 {
- "catalogVersion": 19,
+ "catalogVersion": 20,
  "routes": [
   {
    "id": "sweihan-2026-09-12",
@@ -42887,7 +42887,7 @@
    "name": "Porto Trail",
    "emirate": "Portugal",
    "region": "Porto",
-   "summary": "An intermediate trail in Abu Dhabi — 12.7 km (~16h 36m).",
+   "summary": "An intermediate trail near Porto, Portugal — 12.7 km (~1h).",
    "geometry": [
     [
      41.27918,
@@ -49912,7 +49912,7 @@
    ],
    "distanceM": 12773,
    "elevationGainM": 75,
-   "estDurationS": 59787,
+   "estDurationS": 3600,
    "routeShape": "point-to-point",
    "skillLevel": "intermediate",
    "terrainTags": [
